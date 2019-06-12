@@ -6,4 +6,8 @@
 * From the Station Popularity graph, we can see that the most popular station to start from is the Grove St PATH station. Other popular stations include the Exchange Place, Hamilton Park, and Sip Ave.
 * The most popular months to rent bikes are July and August. Rentals begin tapering off in September and don't start to increase again until January. 
 * From our gender breakdown graph, we see that males took over three times the number of trips as females.
+* Peak rental times remain consistent throughout the year, with most bike rentals occurring around 8 am and 6 pm. 
+* The average number of total miles ridden per day is 95,877. June is the most popular month to ride bikes while January is the least popular. 
+* Total membership increased by 17% in in 2018. 
+
 
