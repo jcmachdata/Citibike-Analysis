@@ -1,3 +1,7 @@
+# Citi Bike Analytics
+
+![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
+
 ## Key Findings
 
 * There were a total of 12,677 trips taken in 2018.
